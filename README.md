@@ -3,7 +3,7 @@ Madame monsieur,
 
 Voici le meilleur jeu de dée de toute l'histoire source le french speedrunner
 Un petit peu d'histoire sur ce jeu:
-  crée au millieu des année 70 à Boulogne-sur-mer par Jean-Marc Potel, grand ponte des soirées boulonnaises et patron du bar The Froggy Blues, il est         vraiment reconnu comme un jeu de dée lors dea la première run celeste any% sub 35 de LUKACO59   
+  crée au millieu des année 70 à Boulogne-sur-mer par Jean-Marc Potel, grand ponte des soirées boulonnaises et patron du bar The Froggy Blues, il est         vraiment reconnu comme un jeu de dée lors de la première run celeste any% sub 35 de LUKACO59   
 
 
 Pour lancer le jeu:  
