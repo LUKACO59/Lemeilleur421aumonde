@@ -12,7 +12,7 @@ Pour lancer le jeu:
   Etape 2 : Démarrer le programme   
   Etape 3 : Ecrire dans le shell la ligne de commande lancer_le_jeu(j1,j2) avec j1 et j2 entre guillemet et j1 et j2 les noms des deux joueurs   
   Etape 4 : Regarder la partie défiller en buvant un petit café ou en mangeant une part de pizza issue de votre four à pizza   
-  Etape 5 : Si vous avez perdu envoyer 5 euro à Paypal.me/thefrenchtitouan sinon bravo vous avez gagné   
+  Etape 5 : Si vous avez perdu envoyer 5 euro à Paypal.me/thefrenchtitouan sinon bravo vous avez gagné sauf à mario kart 8    
 
 
 
